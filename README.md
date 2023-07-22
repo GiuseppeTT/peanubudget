@@ -11,7 +11,7 @@ This is the entrypoint to the PeanuBudget project, which can be described by the
 ## Quick links
 
 - Web application (aka website): http://peanubudget.com
-- API docs: http://peanubudget.eastus.azurecontainer.io/docs
+- API docs: http://peanubudget.eastus.cloudapp.azure.com
 
 ## Repositories
 
