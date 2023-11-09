@@ -10,7 +10,7 @@ This is the entrypoint to the PeanuBudget project, which can be described by the
 
 ## Quick links
 
-- Web application (aka website): http://peanubudget.com (currently unavaible for upgrade)
+- Web application (aka website): http://peanubudget.com (currently unavailable for upgrade)
 - API docs: http://peanubudget.eastus.cloudapp.azure.com
 
 ## Repositories
